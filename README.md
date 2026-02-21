@@ -1,2 +1,2 @@
 # devops-netology
-Study tasks for devops cource from Netology
+Study tasks for DevOps cource from Netology.
